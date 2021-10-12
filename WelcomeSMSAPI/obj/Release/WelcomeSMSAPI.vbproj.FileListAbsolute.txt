@@ -1,0 +1,10 @@
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll.config
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.pdb
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.xml
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Release\WelcomeSMSAPI.Resources.resources
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Release\WelcomeSMSAPI.vbproj.GenerateResource.Cache
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Release\WelcomeSMSAPI.dll
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Release\WelcomeSMSAPI.xml
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Release\WelcomeSMSAPI.pdb
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Release\WelcomeSMSAPI.vbprojResolveAssemblyReference.cache

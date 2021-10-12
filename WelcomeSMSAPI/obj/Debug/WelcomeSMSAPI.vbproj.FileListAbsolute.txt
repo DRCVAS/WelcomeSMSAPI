@@ -1,0 +1,50 @@
+D:\Source Code\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll
+D:\Source Code\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.pdb
+D:\Source Code\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.xml
+D:\Source Code\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.Resources.resources
+D:\Source Code\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.vbproj.GenerateResource.Cache
+D:\Source Code\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.dll
+D:\Source Code\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.xml
+D:\Source Code\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.pdb
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.pdb
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.xml
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.Resources.resources
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.dll
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.xml
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.pdb
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\bin\WelcomeSMSAPI.pdb
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\bin\WelcomeSMSAPI.xml
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.Resources.resources
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.dll
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.xml
+C:\Users\Administrator\Desktop\APIs\WelcomeSMSAPI -modified20170509\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.pdb
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll.config
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.pdb
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.xml
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.Resources.resources
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.vbproj.GenerateResource.Cache
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.dll
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.xml
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.pdb
+C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.vbprojResolveAssemblyReference.cache
