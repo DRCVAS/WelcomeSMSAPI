@@ -48,3 +48,13 @@ C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\Welc
 C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.xml
 C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.pdb
 C:\Users\Administrator.ATBUKIHQPLP010\Documents\Visual Studio 2015\Projects\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.vbprojResolveAssemblyReference.cache
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll.config
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.dll
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.pdb
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\bin\WelcomeSMSAPI.xml
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.vbprojAssemblyReference.cache
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.Resources.resources
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.vbproj.GenerateResource.cache
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.dll
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.xml
+D:\GitHubRepo\WelcomeSMSAPI\WelcomeSMSAPI\obj\Debug\WelcomeSMSAPI.pdb

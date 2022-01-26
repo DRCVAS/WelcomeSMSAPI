@@ -39,9 +39,7 @@ Public Class _default
         ElseIf cos = "177" Then
             reply = "Super!!! Grace à cet achat, Africell vous offre 20 minutes et 200 SMS Africell-Africell Valable 30 jours. Tapez *111*100# pour vérifier votre solde"
         ElseIf cos = "242" Or cos = "248" Then
-            reply = "Beaucoup de Surprises ! Gagnez des unités ou des mégas ou des SMS avec Africell ! Choisissez votre propre cadeau en rechargeant ! Africell votre réseau."
-            reply2 = "Surprises avec Africell ! Rechargez 20u ou plus avant le Dimanche et recevez votre bonus en répondant 1 pour les unités ou 2 pour les mégas ou 3 pour les SMS."
-            QuickProcessOut(number, LocalUser, LocalPass, LocalRouteName, reply2, "Africell")
+            reply = "Offre surprise! 25% de bonus sur les appels Africell-Africell! Rechargez maintenant et bénéficiez de cette offre. Infos 1010."
         Else
             reply = "Bienvenue chez Africell !!!Votre numero est 0" & number.Substring(3) & " vous avez reçu 10u Africell-Africell et 10 MB,Tapez *111*100# pour verifiez votre solde"
             
